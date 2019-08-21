@@ -4,3 +4,14 @@ Today's Progress: Created a boiler plate project for Angular 8. Installed some b
 Thoughts: Excited to start the actual coding tomorrow.
 
 Link to work: Not Created Yet. Will share eventually, once I create it.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Day 2: August 21. Wednesday
+Today's Progress: Created a Login component wherein user enters username and password & gets in. Created a fake back end service that validates this credential. If found correct, user can move to Home Page. Used RxJS & JWT token authentication for this.
+
+Thoughts: Need to explore more around RxJS.
+
+Link to work: Not Created Yet. Will share eventually, once I create it.
+
+------------------------------------------------------------------------------------------------------------------------------------
